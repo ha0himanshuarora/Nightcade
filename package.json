@@ -1,0 +1,8 @@
+{
+  "name": "nightcade",
+  "version": "1.0.0",
+  "description": "Retro-arcade dark mode extension for Chromium browsers and Firefox",
+  "private": true,
+  "scripts": { "build": "node build.js", "icons": "python3 tools/make-icons.py src/icons" },
+  "license": "MIT"
+}
